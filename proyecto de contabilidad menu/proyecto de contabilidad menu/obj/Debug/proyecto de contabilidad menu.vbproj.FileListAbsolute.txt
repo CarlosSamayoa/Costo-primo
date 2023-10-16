@@ -1,0 +1,24 @@
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\bin\Debug\proyecto de contabilidad menu.exe.config
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\bin\Debug\proyecto de contabilidad menu.exe
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\bin\Debug\proyecto de contabilidad menu.pdb
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\bin\Debug\proyecto de contabilidad menu.xml
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto de contabilidad menu.vbproj.AssemblyReference.cache
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto de contabilidad menu.vbproj.SuggestedBindingRedirects.cache
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto_de_contabilidad_menu.Form1.resources
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto_de_contabilidad_menu.Resources.resources
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto de contabilidad menu.vbproj.GenerateResource.cache
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto de contabilidad menu.vbproj.CoreCompileInputs.cache
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto de contabilidad menu.exe
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto de contabilidad menu.xml
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto de contabilidad menu.pdb
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto_de_contabilidad_menu.Form2.resources
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto_de_contabilidad_menu.Form3.resources
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto_de_contabilidad_menu.Form4.resources
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto_de_contabilidad_menu.Form5.resources
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto_de_contabilidad_menu.DOMICILIO.resources
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto_de_contabilidad_menu.LLEVAR.resources
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto_de_contabilidad_menu.LOG_IN.resources
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto_de_contabilidad_menu.UBICACION.resources
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\obj\Debug\proyecto_de_contabilidad_menu.UBICACIONES.resources
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\bin\Debug\ordenes.accdb
+C:\Users\scajl\source\repos\proyecto de contabilidad menu\proyecto de contabilidad menu\bin\Debug\Biblioteca.accdb
